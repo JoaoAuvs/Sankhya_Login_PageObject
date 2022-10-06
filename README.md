@@ -15,5 +15,5 @@
 
 ## Criar um arquivo .env na raiz do projeto com as seguintes variáveis:
 
-- USER_NAME_SANKHYA = seu_usuario
+- USER_NAME_SANKHYA = "ESCREVER_USER_NAME"
 - SENHA_SANKHYA = "ESCREVER_PASSWORD"
